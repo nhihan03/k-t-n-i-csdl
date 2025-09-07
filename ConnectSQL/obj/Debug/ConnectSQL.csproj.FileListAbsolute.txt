@@ -1,0 +1,10 @@
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe.config
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.exe
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\bin\Debug\ConnectSQL.pdb
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.AssemblyReference.cache
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Form1.resources
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.Properties.Resources.resources
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.GenerateResource.cache
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.csproj.CoreCompileInputs.cache
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.exe
+D:\Hệ cơ sở dữ liệu\ConnectSQL\ConnectSQL\obj\Debug\ConnectSQL.pdb

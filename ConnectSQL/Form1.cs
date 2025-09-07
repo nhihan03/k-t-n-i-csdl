@@ -13,7 +13,7 @@ namespace ConnectSQL
 {
     public partial class Form1 : Form
     {
-        string connectionString = @"Data Source= DESKTOP-6NSFUQR\SQLEXPRESS;Initial Catalog=Tuan3;Intergarted Securiti=True";
+        string connectionString = @"Data Source=DESKTOP-6NSFUQR\SQLEXPRESS;Initial Catalog = Tuan 3; Integrated Security = True";
         SqlConnection connection = null;
         public Form1()
         {
@@ -29,9 +29,15 @@ namespace ConnectSQL
         {
             try
             {
-                
+                connection = new SqlConnection(connectionString);
+                connection.Open();
+                MessageBox.Show("kết nối thành công");
             }
-            catch { 
+            catch
+            {
+                MessageBox.Show("lỗi kết nối");
             }
+        }
     }
 }
+
